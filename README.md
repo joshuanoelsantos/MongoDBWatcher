@@ -12,4 +12,4 @@
 }
 ```
 
-4/ Replace the `ConnectionString` and `DatabaseName` values with the ones you have.
+4. Replace the `ConnectionString` and `DatabaseName` values with the ones you have.
